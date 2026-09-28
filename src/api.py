@@ -32,7 +32,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://frontend-azure-inky.vercel.app"
+        "https://nueva-celula.vercel.app/"
     ],
     allow_credentials=True,
     allow_methods=["*"],
