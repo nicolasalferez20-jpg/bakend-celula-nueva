@@ -4,7 +4,7 @@ from msal import ConfidentialClientApplication
 
 TENANT_ID = "TU_ID"
 CLIENT_ID = "TU_ID"
-CLIENT_SECRET = "TU_SECRET"
+CLIENT_SECRET = "TU_SECRE"
 
 
 
